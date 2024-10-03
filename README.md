@@ -39,7 +39,7 @@ Ensure you have the following installed on your local machine:
 ### Installation
 
 1. **Clone the repository**:
-   
+   ```bash
    git clone https://github.com/RUTHIK-JORIGALA/GalleryAlbum.git
    cd GalleryAlbum
 
