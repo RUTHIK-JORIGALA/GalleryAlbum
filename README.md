@@ -45,17 +45,20 @@ Ensure you have the following installed on your local machine:
 
 
 2. **Backend setup**
+    ```bash
     cd backend
     npm install
     node index.js / npm run dev
 
 3. **Frontend setup**
+    ```bash
     cd ../frontend
     npm install
     npm run dev
 ##
 **Environment Variables**
 In the backend/.env file, ensure you configure the following environment variables:
+```bash
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_secret_key
 
